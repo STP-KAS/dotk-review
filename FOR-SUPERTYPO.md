@@ -10,6 +10,8 @@ You are added as a **collaborator (push)** so you can check:
 2. Overclaims we attributed to the site/X that you would word differently.
 3. The missing GitHub `github.com/supertypo/dotk` (JSON-LD + npm `repository` still 404 on 15 Sep 2026).
 
+Owner note (15 Sep 2026): people who minted KNS `.kas` names will likely not appreciate a competing TLD. The uniqueness idea is understood. **Advice: work with KNS.** See [RISK.md](RISK.md).
+
 Sister mix (also inviting you): https://github.com/STP-KAS/kns-dotk
 
 Please comment, open an issue, or PR. A correction from you is better than us guessing.
