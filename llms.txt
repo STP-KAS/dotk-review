@@ -8,5 +8,6 @@ Independent Grok review of SuperTypo DOTK (https://dotk.name), 15 Sep 2026.
 - Live mainnet registry. Lineage ee2128c03dfac7f6d74734bb3c879bd999434c47a55945b8a6daae2a1e4a21de
 - Uniqueness = gap covering of blake3(name), not a Kaspa TLD opcode.
 - github.com/supertypo/dotk = 404. Ask for sil/DotkGap.sil and sil/DotkDeed.sil.
+- Community risk (owner): KNS minters will likely not appreciate a competing TLD. Advice: work with KNS. See RISK.md.
 - Sister mix: https://github.com/STP-KAS/kns-dotk
 - KNS kit: https://github.com/STP-KAS/kns-spec
