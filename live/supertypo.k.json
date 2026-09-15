@@ -1,0 +1,26 @@
+{
+  "probedAt": "2026-09-15T14:10:00Z",
+  "dotk": {
+    "url": "https://api.dotk.name/v1/names/supertypo",
+    "name": "supertypo",
+    "ownerType": 0,
+    "owner": "bbd188bc50139d774b5beb28943991d762eee39ae574f49b63b3fe6005763ec2",
+    "address": "kaspa:qzaarz9u2qfe6a6tt04j39pej8tk9mhrntjhfaymvwelucq9wclvyneumu0u3",
+    "deedAddress": "kaspa:ppqjpuxrrpgfgtshwfvkc8apwtfp95ugakuhg2yet93g60lzryqp2skze6cpt",
+    "registryCovenantId": "ee2128c03dfac7f6d74734bb3c879bd999434c47a55945b8a6daae2a1e4a21de",
+    "deedUtxo": {
+      "source": "https://api.kaspa.org/addresses/kaspa:ppqjpuxrrpgfgtshwfvkc8apwtfp95ugakuhg2yet93g60lzryqp2skze6cpt/utxos",
+      "transactionId": "52f60e696eccc00316aabb32af09ad577310e5fd3246966754dee4fe7b5b3e12",
+      "index": 0,
+      "amount": "100000000",
+      "note": "api.kaspa.org UTXO JSON did not include covenant_id"
+    }
+  },
+  "kns": {
+    "url": "https://api.knsdomains.org/mainnet/api/v1/supertypo.kas/owner",
+    "asset": "supertypo.kas",
+    "assetId": "e891249298ee50489066e18140993d3559d7d4da158adfc4f532ae45f359fd11i0",
+    "owner": "kaspa:qpg39v5ajkpjzh0fqx65fm2ez0m8fswj3440a0h98s9kddx4tvw6x9gcl79xj",
+    "note": "Different key than supertypo.k. Two namespaces."
+  }
+}

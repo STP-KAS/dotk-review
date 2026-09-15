@@ -1,0 +1,46 @@
+{
+  "probedAt": "2026-09-15T14:10:00Z",
+  "url": "https://api.dotk.name/v1/genesis",
+  "version": 4,
+  "network": "mainnet",
+  "registryCovenantId": "ee2128c03dfac7f6d74734bb3c879bd999434c47a55945b8a6daae2a1e4a21de",
+  "gapTemplateHash": "ba1e7b8e2dfda606a902c89437625b1c31f82668cd8cfdc7cf365a8ad77c5a3d",
+  "deedTemplateHash": "238a8d0a5af1ea136d50dd49973487929b8e713a84f1bd1650e97776b9a3f5a0",
+  "compiler_version": "0.1.0",
+  "source_path": {
+    "gap": "sil/DotkGap.sil",
+    "deed": "sil/DotkDeed.sil"
+  },
+  "params": {
+    "devfund_spk": "207ee85afca8273d94739037e7b4c736fcfc9e12d5c468eea5ce7b89181b49386bac",
+    "fee_1ch": 399800000000,
+    "fee_2ch": 199800000000,
+    "fee_3ch": 99800000000,
+    "fee_4ch": 24800000000,
+    "fee_5plus": 3800000000,
+    "bond": 100000000,
+    "deposit": 3600000000,
+    "gap_value": 100000000,
+    "t_evict": 3000
+  },
+  "paramsKas": {
+    "fee_1ch": 3998,
+    "fee_2ch": 1998,
+    "fee_3ch": 998,
+    "fee_4ch": 248,
+    "fee_5plus": 38,
+    "bond": 1,
+    "deposit": 36,
+    "gap_value": 1,
+    "t_evict_daa": 3000
+  },
+  "genesisBinding": {
+    "authorizingOutpoint": {
+      "transaction_id": "e077087a4761098dcb55a953057b4a92aadf0f834c7df85f53c8bae8634d5d10",
+      "index": 0
+    },
+    "outputIndex": 0
+  },
+  "github_dotk": "https://github.com/supertypo/dotk",
+  "github_dotk_status": "404"
+}
