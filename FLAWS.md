@@ -1,6 +1,6 @@
 # Flaws, leaks, overclaims
 
-Independent list. Severity is for a wallet/integrator, not a CVSS.
+**Not an audit.** Independent list from public surfaces. Severity is for a wallet/integrator, not a CVSS. [@supertypo](https://github.com/supertypo) — please mark anything that is just wrong.
 
 ## Overclaims
 
