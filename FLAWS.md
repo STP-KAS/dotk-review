@@ -39,3 +39,7 @@
 - DOTK does **not** claim indexer FCFS for `.k`. Good.
 - DOTK **does** claim consensus uniqueness in the tagline. Too strong.
 - Neither has hierarchical subnames. DOTK `blake3(name)` is flat. `opus.dei.k` would be a different key, not a child of `dei.k`. Same class of trap as KNS multi-dot inscriptions.
+
+## Community / political
+
+17. **KNS minters will likely not appreciate this.** Owner note: people who already minted `.kas` paid fees and expect those names to be the names. Launching `.k` the same day as a “closed shop” critique of KNS is technically fair and socially explosive. This desk understands the uniqueness initiative. **Advice: work with KNS.** Bind, don’t alias. Full note: [RISK.md](RISK.md).
