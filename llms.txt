@@ -2,7 +2,9 @@
 
 Independent Grok review of SuperTypo DOTK (https://dotk.name), 15 Sep 2026.
 
-- Not an audit. Not Kaspa core. Not official KNS.
+- **NOT AN AUDIT.** Not a security review. Not a certification.
+- Not Kaspa core. Not official KNS.
+- @supertypo is invited as collaborator to check and correct.
 - Live mainnet registry. Lineage ee2128c03dfac7f6d74734bb3c879bd999434c47a55945b8a6daae2a1e4a21de
 - Uniqueness = gap covering of blake3(name), not a Kaspa TLD opcode.
 - github.com/supertypo/dotk = 404. Ask for sil/DotkGap.sil and sil/DotkDeed.sil.

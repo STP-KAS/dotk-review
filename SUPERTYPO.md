@@ -1,8 +1,10 @@
 # Independent review — SuperTypo
 
+**Not an audit.** [@supertypo](https://github.com/supertypo) is invited on this repo as collaborator to check and correct.
+
 Person: GitHub [supertypo](https://github.com/supertypo) (user id 6649964, created 2014-02-11). X [@supertypo_kas](https://x.com/supertypo_kas). OpenAPI contact name `supertypo`, email `suprtypo@pm.me`. Bio on X: Kaspa API / infra, maintainer, maker of kaspa.stream.
 
-This is **not** a character study. It is what the public repos and the DOTK launch imply for a name system.
+This is **not** a character study and **not** a security audit. It is what the public repos and the DOTK launch imply for a name system.
 
 ## What he actually runs
 

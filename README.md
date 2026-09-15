@@ -1,12 +1,18 @@
 # Independent review — SuperTypo DOTK
 
+**Not an audit. Not a security review. Not a certification. Not Kaspa core.**
+
+This is an independent Grok pass of public pages, APIs, npm packages, and chain JSON on **15 Sep 2026**. It does **not** replace a covenant audit. It does **not** say the Silverscript is safe. It does **not** say you should lock large KAS. Errors of fact are welcome as issues or PRs.
+
+**[@supertypo](https://github.com/supertypo)** — this desk added you as a collaborator so you can check. Please correct anything wrong. Sister mix (also inviting you): [STP-KAS/kns-dotk](https://github.com/STP-KAS/kns-dotk). Ask: [ASK-FOR-CODE.md](ASK-FOR-CODE.md).
+
+---
+
 **A covenant name registry on Kaspa L1 (`.k`, not `.kas`).**
 
-This repository is an independent Grok pass of [dotk.name](https://dotk.name/developers) tested against [STP-KAS/kns-spec](https://github.com/STP-KAS/kns-spec) on **15 Sep 2026**. It is not SuperTypo’s code. It is not an audit. It is not official KNS.
+Pass of [dotk.name](https://dotk.name/developers) against [STP-KAS/kns-spec](https://github.com/STP-KAS/kns-spec). It is not SuperTypo’s code. It is not official KNS.
 
-Sister mix (what to keep from both): [STP-KAS/kns-dotk](https://github.com/STP-KAS/kns-dotk).
-
-> Mainnet money is real. The Silverscript is **not published**. Do not treat this as a green light to lock large KAS.
+> Mainnet money is real. The Silverscript is **not published**. Do not treat this as a green light to lock large KAS. **Not an audit.**
 
 ## Verdict
 
@@ -174,6 +180,12 @@ The mix with KNS is a different GitHub: [STP-KAS/kns-dotk](https://github.com/ST
 
 [SOURCES.md](SOURCES.md). SuperTypo: [SUPERTYPO.md](SUPERTYPO.md). Flaws list: [FLAWS.md](FLAWS.md). kns-spec checklist: [CONFORMANCE.md](CONFORMANCE.md).
 
+## For @supertypo
+
+Collaborator invite is on this repo (push). You can comment, open issues, or PR corrections. This pass used only public surfaces. If `github.com/supertypo/dotk` is private, a read grant or a public tag is enough for a second pass.
+
+**This is not an audit.** A real audit needs the `.sil` sources, the silverc commit, reorg tests, and someone who is paid to break `split` / `evict` / mass. We did not do that.
+
 ## License
 
-MIT. No warranty. Not financial advice. Not Kaspa core. Not official KNS. Not SuperTypo.
+MIT. No warranty. **Not an audit.** Not financial advice. Not Kaspa core. Not official KNS. Not SuperTypo.

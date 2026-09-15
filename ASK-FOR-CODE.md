@@ -1,6 +1,6 @@
 # Ask for the code
 
-This pass could not find the source the product claims.
+**Not an audit.** [@supertypo](https://github.com/supertypo) — collaborator invite is on this repo. This pass could not find the source the product claims. A second pass against `.sil` is still not an audit.
 
 ## What is advertised
 
