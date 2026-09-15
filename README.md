@@ -47,6 +47,12 @@ The GitHub the site and npm point at — [`github.com/supertypo/dotk`](https://g
 
 `supertypo.kas` (KNS) and `supertypo.k` (DOTK) are **different keys**. Same for `kaspa.kas` / `kaspa.k`. Two namespaces, two owners.
 
+## Community risk (owner)
+
+Kaspa community who have minted KNS domains will likely not appreciate the effort. This desk understands the initiative. **Advice: work with KNS.**
+
+Full note: [RISK.md](RISK.md). A live `.k` registrar next to paid `.kas` inscriptions is a social problem, not only a protocol one.
+
 ## What Grok did
 
 1. Fetched [dotk.name/developers](https://dotk.name/developers). Without JS the page is a title. With JS it is a full protocol essay. Crawler leak: **the developer docs are not in HTML.**
@@ -173,16 +179,19 @@ Until those exist, uniqueness is **reproducible in principle** (SDK + a node) an
 6. Separate the public directory from kaspa.stream / WalletConnect defaults. kns-spec: don’t log lookups.
 7. Evict → devfund is an incentive. Write the griefing math (36 KAS deposit, 5 min, who runs the bot).
 8. iOS: the launch thread already admits there is no wallet. Don’t call the webapp universal.
+9. **Work with KNS.** KNS minters will likely not appreciate a competing TLD. Bind, don’t alias. [RISK.md](RISK.md).
 
 The mix with KNS is a different GitHub: [STP-KAS/kns-dotk](https://github.com/STP-KAS/kns-dotk).
 
 ## Sources
 
-[SOURCES.md](SOURCES.md). SuperTypo: [SUPERTYPO.md](SUPERTYPO.md). Flaws list: [FLAWS.md](FLAWS.md). kns-spec checklist: [CONFORMANCE.md](CONFORMANCE.md).
+[SOURCES.md](SOURCES.md). SuperTypo: [SUPERTYPO.md](SUPERTYPO.md). Flaws list: [FLAWS.md](FLAWS.md). Community: [RISK.md](RISK.md). kns-spec checklist: [CONFORMANCE.md](CONFORMANCE.md).
 
 ## For @supertypo
 
 Collaborator invite is on this repo (push). You can comment, open issues, or PR corrections. This pass used only public surfaces. If `github.com/supertypo/dotk` is private, a read grant or a public tag is enough for a second pass.
+
+Owner note: people who minted KNS `.kas` will likely not appreciate a competing TLD. **Work with KNS.** [RISK.md](RISK.md).
 
 **This is not an audit.** A real audit needs the `.sil` sources, the silverc commit, reorg tests, and someone who is paid to break `split` / `evict` / mass. We did not do that.
 
