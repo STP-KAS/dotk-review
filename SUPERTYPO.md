@@ -40,6 +40,10 @@ There is no public `dotk` among the 48. npm still points at it.
 
 None of that makes the gap covering fake. It makes “trustless, decentralized, no registrar” a marketing sentence that needs the lineage id next to it.
 
+## Advice (owner)
+
+Work with KNS. People who minted `.kas` will likely not appreciate a competing TLD. The uniqueness critique is understood. Bind, don’t alias. See [RISK.md](RISK.md).
+
 ## What he is not
 
 - Not Kaspa core.
@@ -52,4 +56,4 @@ SuperTypo’s reply also names “Kron's implementation” as another distinct-l
 
 ## Ask
 
-Publish `github.com/supertypo/dotk`. Until then this desk treats SuperTypo as: **excellent L1 infra, unpublished name-system source, operator of the default directory and the explorer that decodes it.**
+Publish `github.com/supertypo/dotk`. Until then this desk treats SuperTypo as: **excellent L1 infra, unpublished name-system source, operator of the default directory and the explorer that decodes it.** Work with KNS if the goal is uniqueness for names people already own.
