@@ -1,0 +1,29 @@
+{
+  "probedAt": "2026-09-15T14:10:00Z",
+  "url": "https://api.dotk.name/v1/health",
+  "healthy": true,
+  "lastBlock": {
+    "hash": "06fd35756fe5ebe4665153b681858c7408a566940618ea6e46fa1158166411a6",
+    "daaScore": 540610386,
+    "blueScore": 538670308,
+    "timestamp": 1789481325612
+  },
+  "tipBlueScore": 538670310,
+  "netBps": 10,
+  "active": 257,
+  "pending": 2,
+  "ownerUnknown": 0,
+  "historySeq": 585,
+  "tipDistance": 2,
+  "journalCoverage": 538170308,
+  "caughtUp": true,
+  "selfTest": {
+    "proven": true,
+    "startedMs": 1789481295871,
+    "finishedMs": 1789481296099,
+    "gapsChecked": 257,
+    "deedsChecked": 256
+  },
+  "registryCovenantId": "ee2128c03dfac7f6d74734bb3c879bd999434c47a55945b8a6daae2a1e4a21de",
+  "network": "mainnet"
+}
