@@ -1,6 +1,6 @@
 # Ask for the code
 
-**Not an audit.** [@supertypo](https://github.com/supertypo) — collaborator invite is on this repo. This pass could not find the source the product claims. A second pass against `.sil` is still not an audit.
+**Not an audit.** For the KNS team. This pass could not find the source the product claims. A second pass against `.sil` is still not an audit. The covenant source is still not public. Do not ship a `.kas` covenant from an unpublished script.
 
 ## What is advertised
 

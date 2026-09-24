@@ -6,9 +6,9 @@
 
 **Not an audit. Not a security review. Not a certification. Not Kaspa core.**
 
-This is an independent Grok pass of public pages, APIs, npm packages, and chain JSON on **15 Sep 2026**. It does **not** replace a covenant audit. It does **not** say the Silverscript is safe. It does **not** say you should lock large KAS. Errors of fact are welcome as issues or PRs.
+This is an independent Grok pass of public pages, APIs, npm packages, and chain JSON on **15 Sep 2026**, written for the KNS team. It does **not** replace a covenant audit. It does **not** say the Silverscript is safe. It does **not** say you should lock large KAS.
 
-**[@supertypo](https://github.com/supertypo)** — this desk added you as a collaborator so you can check. Please correct anything wrong. Sister mix (also inviting you): [STP-KAS/kns-dotk](https://github.com/STP-KAS/kns-dotk). Ask: [ASK-FOR-CODE.md](ASK-FOR-CODE.md).
+What KNS should learn from it is on [STP-KAS/kns-dotk](https://github.com/STP-KAS/kns-dotk) and in [FOR-KNS.md](https://github.com/STP-KAS/kns-tn10-testing/blob/main/FOR-KNS.md).
 
 ---
 
@@ -191,11 +191,9 @@ The mix with KNS is a different GitHub: [STP-KAS/kns-dotk](https://github.com/ST
 
 [SOURCES.md](SOURCES.md). SuperTypo: [SUPERTYPO.md](SUPERTYPO.md). Flaws list: [FLAWS.md](FLAWS.md). Community: [RISK.md](RISK.md). kns-spec checklist: [CONFORMANCE.md](CONFORMANCE.md).
 
-## For @supertypo
+## For the KNS team
 
-Collaborator invite is on this repo (push). You can comment, open issues, or PR corrections. This pass used only public surfaces. If `github.com/supertypo/dotk` is private, a read grant or a public tag is enough for a second pass.
-
-Owner note: people who minted KNS `.kas` will likely not appreciate a competing TLD. **Work with KNS.** [RISK.md](RISK.md).
+Read this pass for the mechanism. The lesson — what to take from DOTK, from covenants, and from the inscription lab — is [FOR-KNS.md](https://github.com/STP-KAS/kns-tn10-testing/blob/main/FOR-KNS.md).
 
 **This is not an audit.** A real audit needs the `.sil` sources, the silverc commit, reorg tests, and someone who is paid to break `split` / `evict` / mass. We did not do that.
 

@@ -1,6 +1,6 @@
 # Flaws, leaks, overclaims
 
-**Not an audit.** Independent list from public surfaces. Severity is for a wallet/integrator, not a CVSS. [@supertypo](https://github.com/supertypo) — please mark anything that is just wrong.
+**Not an audit.** Independent list from public surfaces, for the KNS team. Severity is for a wallet/integrator, not a CVSS.
 
 ## Overclaims
 
